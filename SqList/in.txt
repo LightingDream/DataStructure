@@ -1,0 +1,19 @@
+show
+insert 1 ZHAO
+show
+insert 2 QIAN
+show
+insert 3 SUN
+show
+insert 4 LI
+delete 2
+show
+insert 4 ZHOU
+insert 5 WU
+insert 6 ZHENG
+insert 7 WANG
+show
+insert 1 ZHANG
+show
+search LI
+show
