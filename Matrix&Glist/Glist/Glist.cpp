@@ -89,7 +89,7 @@ void Print(Glist * x){
 }
 
 int main(){
-    Glist * l = Solution::solve("((),a,(b,c),(b,(d,cs = s.substr(1, s.length() - 1);,b)))");
+    Glist * l = Solution::solve("((),a,(b,c),(b,(d,c,b)))");
     Print(l);
     printf("\n%d\n", Solution::length(l));
     printf("%d\n", Solution::depth(l));
