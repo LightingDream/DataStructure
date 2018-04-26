@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521941963 source:h:\cpp\datastructure\linklist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
