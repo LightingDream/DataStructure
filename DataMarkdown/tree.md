@@ -1,5 +1,5 @@
 [TOC]
-
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 ## 数据结构－树(上)
 
 ### 定义
@@ -355,6 +355,7 @@
       res->rTag = true;
       return res;
   }
+  ```
 
 
   void inThreading(pTree rt, pTree &pre){
